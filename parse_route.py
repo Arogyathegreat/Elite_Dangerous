@@ -22,4 +22,4 @@ for row in table.find_all('tr'):
 
     entry.append(test)
 
-print(entry[1])
+
