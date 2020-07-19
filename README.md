@@ -1,6 +1,6 @@
 # Elite Dangerous - Road to Riches
 
-This is just a private application that I made to make things easier while doing Road to Riches exploration. I parse the route from 
+This is just a private application that I am creating to make things easier while doing Road to Riches exploration. I parse the route from 
 http://edtools.ddns.net/expl.php
 and use the game made Journals.
 
